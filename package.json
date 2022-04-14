@@ -1,0 +1,24 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lessc": "lessc 1.less 1.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huaxiansp/123.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huaxiansp/123/issues"
+  },
+  "homepage": "https://github.com/huaxiansp/123#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0"
+  }
+}
